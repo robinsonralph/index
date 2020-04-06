@@ -1,0 +1,66 @@
+/* Website Styles */
+* {
+  /* font-size: 100%; */
+}
+
+
+body {
+background-color: gray;
+color: black;
+font size- 14px;
+}
+
+
+
+h1 {
+text-align: left;
+color:red;
+font size: 24px
+ }
+ header h1 {
+  text-align: center;
+}
+ p {
+   line-height: 2;
+ }
+
+h2 {
+  color:blue;
+  font size: 18px
+}
+h3{
+  font size: 18px
+}
+h1, h2, h3 {
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+section {
+  color:green;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+footer {
+  color:black;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:link,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: red;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: grey;
+}
