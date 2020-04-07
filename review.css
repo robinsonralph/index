@@ -1,0 +1,40 @@
+body {
+background-color: aqua; color red ; font size=14px;
+}
+
+h1 {text-align:center;
+  a:link,
+  a:focus,
+  a:active {
+    text-decoration: none;
+    color: red;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  a:visited {
+    color: green;
+
+
+
+
+
+
+ }
+
+
+h2 {p ;
+  color:red;
+}
+
+section {
+  color:green;
+}
+
+footer {
+  color:black;
+}
+<link href="https://fonts.googleapis.com/
+css?family=arial" rel="stylesheet">
