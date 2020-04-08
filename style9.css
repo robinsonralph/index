@@ -1,0 +1,30 @@
+Body{
+background-aqua;
+font-family: arial;
+font-size: 14px;
+ background-image: url(images/more-leaves.png);
+ background-repeat: no-repeat;
+}
+
+h1{
+  color: red;
+  font-size: 24px
+}
+
+.banner {
+  height: 350px;
+  background-image: url(images/banner.jpg);
+  background-size: cover;
+ background-position: center;
+}
+
+
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  background:white;
+  background-image:url (" images"/piggies.jpg)
+  background-repeat: no-repeat;
+   background-size: cover;
+}
