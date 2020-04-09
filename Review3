@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Review3</title>
+  <meta charset = "uft 8">
+</head>
+<body>
+  <---Review 3 HTML--->
+  <a href="https://nvit.ca">NVIT</a>
+  <section>
+    <a href ="http://www.google.com" target="blank"></a>
+    <img src="images/Cow.jpg" alt="Cow" width="200px" />
+    <img src="images/piggies.jpg" alt="piggies" width="30%" />
+<!--This is a review-->
+</body>
+
+</html>
