@@ -1,28 +1,39 @@
 body {
-background-color: aqua; color red ; font size=14px;
+background-color: aqua;
+ color: red;
+ font-size=14px;
 }
 
-h1 {text-align:center;
-  a:link,
-  a:focus,
-  a:active {
-    text-decoration: none;
-    color: red;
+h1 {
+  text-align:center;
+}
+a:link,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: red;
   }
 
-  a:hover {
-    text-decoration: underline;
+a:hover {
+  text-decoration: underline;
   }
 
-  a:visited {
-    color: green;
+a:visited {
+  color: green;
+}
+h2 p {
+color:red;
+}
+section {
+  color:green;
+}
+footer {
+  color:black;
+}
 
 
 
 
-
-
- }
 
 
 h2 {p ;
